@@ -1,0 +1,16 @@
+C:\Users\Emerson\source\repos\ABS\Projeto_ABS\bin\Debug\net5.0\Projeto_ABS.exe
+C:\Users\Emerson\source\repos\ABS\Projeto_ABS\bin\Debug\net5.0\Projeto_ABS.deps.json
+C:\Users\Emerson\source\repos\ABS\Projeto_ABS\bin\Debug\net5.0\Projeto_ABS.runtimeconfig.json
+C:\Users\Emerson\source\repos\ABS\Projeto_ABS\bin\Debug\net5.0\Projeto_ABS.runtimeconfig.dev.json
+C:\Users\Emerson\source\repos\ABS\Projeto_ABS\bin\Debug\net5.0\Projeto_ABS.dll
+C:\Users\Emerson\source\repos\ABS\Projeto_ABS\bin\Debug\net5.0\ref\Projeto_ABS.dll
+C:\Users\Emerson\source\repos\ABS\Projeto_ABS\bin\Debug\net5.0\Projeto_ABS.pdb
+C:\Users\Emerson\source\repos\ABS\Projeto_ABS\obj\Debug\net5.0\Projeto_ABS.csproj.AssemblyReference.cache
+C:\Users\Emerson\source\repos\ABS\Projeto_ABS\obj\Debug\net5.0\Projeto_ABS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emerson\source\repos\ABS\Projeto_ABS\obj\Debug\net5.0\Projeto_ABS.AssemblyInfoInputs.cache
+C:\Users\Emerson\source\repos\ABS\Projeto_ABS\obj\Debug\net5.0\Projeto_ABS.AssemblyInfo.cs
+C:\Users\Emerson\source\repos\ABS\Projeto_ABS\obj\Debug\net5.0\Projeto_ABS.csproj.CoreCompileInputs.cache
+C:\Users\Emerson\source\repos\ABS\Projeto_ABS\obj\Debug\net5.0\Projeto_ABS.dll
+C:\Users\Emerson\source\repos\ABS\Projeto_ABS\obj\Debug\net5.0\ref\Projeto_ABS.dll
+C:\Users\Emerson\source\repos\ABS\Projeto_ABS\obj\Debug\net5.0\Projeto_ABS.pdb
+C:\Users\Emerson\source\repos\ABS\Projeto_ABS\obj\Debug\net5.0\Projeto_ABS.genruntimeconfig.cache
