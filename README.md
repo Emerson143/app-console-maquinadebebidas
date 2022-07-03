@@ -5,11 +5,8 @@
 
 ## Projetos Maquina de bebidas
 
-<<<<<<< HEAD
 Esse Projeto tem como objetivo mostrar a realização do teste técnico. Fiz um pequeno desenvolvimento simples em console usando a linguagem de programação C#, com as informações descritas no documento do teste enviado por e-mail.
-=======
-Esse Projeto tem como objetivo mostrar a realização de um teste técnico. Fiz um pequeno desenvolvimento simples em console usando a linguagem de programação C#, com as informações descritas no documento do teste enviado por e-mail. No final do código fonte mostrada nesse documento, contém as etapas da aplicação em execução.
->>>>>>> 32880a75cb817261eb466934ccd607695912cf01
+
 
 ## Como funciona o Projeto
 
